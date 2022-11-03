@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaluijijessica
-- 👀 I’m interested in web and software development and UI/UX designing 
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on backend development 
+- 👀 I’m interested in web development and UI/UX designing 
+- 🌱 I’m currently a front-end development 
 - 📫 How to reach me 
 https://www.linkedin.com/in/jessica-kaluiji-97750a19b
 <!---
