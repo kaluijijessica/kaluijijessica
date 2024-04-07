@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a Front-End Developer and UI/UX Designer passi
 - Twitter: [@JessicaKaluiji](https://twitter.com/JessicaKaluiji)
 
 🤝 **Let's Connect**
-While not all my projects are public, I'm always open to discussions, collaborations, and contributing to open-source initiatives. Feel free to reach out, explore my repositories, and let's discuss how we can create something amazing together!
+- While not all my projects are public, I'm always open to discussions, collaborations, and contributing to open-source initiatives. Feel free to reach out, explore my repositories, and let's discuss how we can create something amazing together!
