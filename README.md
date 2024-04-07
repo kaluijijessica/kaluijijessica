@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a Front-End Developer and UI/UX Designer passi
 - Responsive Web Design: Ensuring a seamless experience on devices of all sizes is a key aspect of my development process.
 
 💻 **Tech Stack**
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Next.js
-- **CSS Framework:** Tailwind CSS
+- **Languages:** HTML5, CSS3, JavaScript (ES6+),Python,C,Java
+- **Frameworks/Libraries:** React, Next.js,Django
+- **CSS Framework:** Tailwind CSS, Bootstrap 
 - **Tools:** Git, Webpack, npm
 
 🌐 **Where to Find Me**
